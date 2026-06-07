@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Visualizes packet header layouts and structures. [Variant 229 using BASH with Cyberpunk theme]
+  name: python-sniffer-v229 version: 1.0 type: Repository author: VarshuAi description: >   Visualizes packet header layouts and structures. [Variant 229 using BASH with Cyberpunk theme] primary_tech: Shell
 primary_tech: Shell
 ```
 
